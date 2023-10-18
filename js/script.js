@@ -28,7 +28,7 @@ if (userAge < 18) {
     message = `Il prezzo del tuo biglietto è  ${twoDec}€ con il 40% di sconto`
     console.log(seniorPrice);
 } else {
-    
+    message = `Il prezzo del tuo biglietto è  ${ticketPrice}€`
 }
 
 // output 
